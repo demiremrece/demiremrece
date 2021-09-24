@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/demiremre-FollowMe-red)](https://demiremre.com)
 
-## I'm a Husband, Cat Father, Developer, and Tennis Lover!!
+## I'm a Developer, Cat Father and Tennis Lover!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m open to collaborate with other developers
