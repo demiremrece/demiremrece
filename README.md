@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dinamik Programlamaya Giriş](https://demiremre.com/dinamik-programlama/)
 - [Var, Let, Const](https://demiremre.com/var-let-const/)
 - [Linux'ta Servis Oluşturma - Systemd](https://demiremre.com/linux-servisi-olusturma-systemd/)
 - [Update Node.js - Node.js nasıl güncellenir?](https://demiremre.com/update-node-js-guncelleme-nasil-yapilir/)
 - [Design Patterns (Tasarım Kalıpları) - Builder Pattern](https://demiremre.com/design-patterns-tasarim-kaliplari-builder-pattern/)
-- [Design Patterns (Tasarım Kalıpları) - Singleton Pattern](https://demiremre.com/design-patterns-tasarim-kaliplari/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://demiremre.com)
