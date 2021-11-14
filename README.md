@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memoization ve Tabulation #2: CanSum](https://demiremre.com/memoization-ve-tabulation-2-cansum-problemi/)
 - [Memoization ve Tabulation #1: Fibonacci](https://demiremre.com/fibonacci-memoization-ve-tabulation/)
 - [Dinamik Programlamaya Giriş](https://demiremre.com/dinamik-programlama/)
 - [Var, Let, Const](https://demiremre.com/var-let-const/)
 - [Linux&#39;ta Servis Oluşturma - Systemd](https://demiremre.com/linux-servisi-olusturma-systemd/)
-- [Update Node.js - Node.js nasıl güncellenir?](https://demiremre.com/update-node-js-guncelleme-nasil-yapilir/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://demiremre.com)
