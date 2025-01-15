@@ -4,10 +4,10 @@
 
 ## I'm a Developer, Cat Father and Tennis Lover!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently enjoying Kubernetes & AWS 🤣
 - 👯 I’m open to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play court tennis and football
+- 🥅 2025 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play court tennis
 
 ### Connect with me:
 
